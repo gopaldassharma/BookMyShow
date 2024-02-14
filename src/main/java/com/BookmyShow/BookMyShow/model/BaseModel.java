@@ -1,7 +1,5 @@
 package com.BookmyShow.BookMyShow.model;
-
 import lombok.Getter;
-
 import java.util.Date;
 
 @Getter
